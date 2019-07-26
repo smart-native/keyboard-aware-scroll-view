@@ -1,5 +1,5 @@
 {
-  "name": "react-native-keyboard-aware-scroll-view",
+  "name": "@smart-native/keyboard-aware-scroll-view",
   "version": "0.8.0",
   "description": "A React Native ScrollView component that resizes when the keyboard appears.",
   "main": "index.js",
@@ -36,8 +36,8 @@
   },
   "homepage": "https://github.com/APSL/react-native-keyboard-aware-scroll-view#readme",
   "dependencies": {
-    "prop-types": "^15.6.2",
-    "react-native-iphone-x-helper": "^1.0.3"
+    "prop-types": "^15.7.2",
+    "react-native-iphone-x-helper": "^1.2.1"
   },
   "peerDependencies": {
     "react-native": ">=0.48.4"
